@@ -53,11 +53,11 @@ Supplementary information::
 Attribution
 -----------
 
-Please cite `this <http://adsabs.harvard.edu/abs/2015arXiv150407995N>`_ if you use these posterior samples in your research.
+Please cite `this <http://adsabs.harvard.edu/abs/2016arXiv160506720R>`_ if you use these posterior samples in your research.
 
 The BibTeX entry for the paper is::
 
-    @ARTICLE{2015arXiv150407995N,
+    @ARTICLE{http://adsabs.harvard.edu/abs/2016arXiv160506720R,
 	author = {{Ramm}, D.~J. and {Nelson}, B.~E. and {Endl}, M. and {Wittenmyer}, R.~A. and {Gunn}, F. and {Bergmann}, C. and {Kilmartin}, P. and {Erogt}, E. },
          title = "{The conjectured S-type retrograde planet in nu Octantis: more evidence including four years of iodine-cell radial velocities}",
        journal = {ArXiv e-prints},
